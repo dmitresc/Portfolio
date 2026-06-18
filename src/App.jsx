@@ -401,7 +401,7 @@ const App = () => {
               03 / SKILLS
             </span>
             <h2 className="text-4xl font-bold tracking-tight text-white">
-              My toolkit.
+              My Toolkit
             </h2>
           </div>
           
